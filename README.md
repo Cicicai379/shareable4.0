@@ -1,10 +1,1 @@
-# swiftui-bootstrap
-
-SwiftUI Bootstrap Project to Start Your Next App Quickly
-
-Created by <a href="https://iosapptemplates.com">iOS templates</a> with help from <a href="https://instamobile.io">React Native Templates</a>
-# shareable4.0
-# shareable4.0
-# shareable4.0
-# shareable4.0
-# shareable4.0
+An IOS application for second-hand goods donation. The newest version built with the Emberjs framework is now on https://github.com/wsw2025/cis 
